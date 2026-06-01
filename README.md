@@ -81,13 +81,6 @@ Java Full Stack web application for monitoring attendance, academic performance,
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2200032705-SREEJA&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2200032705-SREEJA&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
