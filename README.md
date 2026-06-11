@@ -1,4 +1,4 @@
-[# Hi 👋, I'm Sreeja Penumudi
+# Hi 👋, I'm Sreeja Penumudi
 
 🎓 Final-Year B.Tech Computer Science Student (CGPA: 8.99)
 
