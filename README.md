@@ -91,4 +91,4 @@ Java Full Stack web application for monitoring attendance, academic performance,
 🐙 GitHub: https://github.com/2200032705-SREEJA
 
 ⚡ Fun Fact: I enjoy building practical software solutions and continuously exploring emerging technologies.
-](https://esg-risk-scorer.streamlit.app/)
+(https://esg-risk-scorer.streamlit.app/)
